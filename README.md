@@ -1,6 +1,7 @@
 # Numerical-Method
 <h3>Lab-01:</h3>
-  - Count number of significant digits in a given number.
+<ul><li>Count number of significant digits in a given number. </li</ul>
+  - 
   - Horner's Method.
   - Bisection Method.
   - Fixed point Method.
